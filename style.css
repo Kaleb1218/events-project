@@ -10,18 +10,22 @@ button {
 
 #aqua {
     background-color: aqua;
+    text-align: center;
 }
 
 #teal {
     background-color: teal;
+    text-align: center;
 }
 
 #pink {
     background-color: pink;
+    text-align: center;
 }
 
 #purple {
     background-color: purple;
+    text-align: center;
 }
 
 #colorless {
@@ -35,4 +39,5 @@ div {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
